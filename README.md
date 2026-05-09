@@ -176,11 +176,6 @@ Better imbalance handling
 Hyperparameter tuning
 Streamlit deployment
 
-# Installation
-
-```bash
-pip install -r requirements.txt
-```
 
 # Author
 

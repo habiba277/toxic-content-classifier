@@ -5,8 +5,6 @@ __pycache__/
 
 .env
 
-models/*.pth
-models/*.pkl
 models/glove.6B.100d.txt
 venv/
 env/
